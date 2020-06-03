@@ -1,0 +1,38 @@
+h1{
+    color: dodgerblue
+}
+
+h3{
+    color:gold
+}
+
+p{
+    color:dimgrey
+}
+
+strong{
+    color: black
+}
+
+em{
+    color: black
+}
+
+img{
+    width: auto
+}
+p{
+    text-align: center
+}
+
+body{
+    background-color: black
+}
+
+h6{
+    color: cyan
+}
+
+h6{
+    border-bottom-color: brown
+}
